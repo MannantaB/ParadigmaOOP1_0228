@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agregasi", "agregasi\agrega
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asosiasi", "asosiasi\asosiasi.vcxproj", "{8F511628-77A0-42FC-BA66-89740BF12D9D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance", "Inheritance\Inheritance.vcxproj", "{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{8F511628-77A0-42FC-BA66-89740BF12D9D}.Release|x64.Build.0 = Release|x64
 		{8F511628-77A0-42FC-BA66-89740BF12D9D}.Release|x86.ActiveCfg = Release|Win32
 		{8F511628-77A0-42FC-BA66-89740BF12D9D}.Release|x86.Build.0 = Release|Win32
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Debug|x64.ActiveCfg = Debug|x64
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Debug|x64.Build.0 = Debug|x64
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Debug|x86.Build.0 = Debug|Win32
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Release|x64.ActiveCfg = Release|x64
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Release|x64.Build.0 = Release|x64
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Release|x86.ActiveCfg = Release|Win32
+		{EC46D7D8-197A-41A6-AC8B-7C74635FEAA6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
